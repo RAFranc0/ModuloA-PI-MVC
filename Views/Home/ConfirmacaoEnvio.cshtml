@@ -1,11 +1,13 @@
 ﻿@model ContatoViewModel;
 
 <div id="corpo">
-    <div class="container d-flex justify-content-center align-items-center" id="container">
-        <div id="contato-box">
-            <h2 class="text-center mb-4">Contato</h2>
-            <form class="d-flex flex-column justify-content-center align-items-center" asp-action="EnviarContato"
-                method="post" id="formContato">
+    <div class="container d-flex flex-column justify-content-center align-items-center" id="container">
+
+        <h1>Seu contato foi enviado com sucesso!</h1>
+
+        <form class="d-flex flex-column justify-content-center align-items-center" asp-action="EnviarContato"
+            asp-controller="Contato" method="post" id="formContato">
+            <fieldset disabled>
                 <div class="row mb-4">
                     <div class="form-group col-4">
                         <label for="nome">Nome</label>
@@ -26,10 +28,7 @@
                 <div class="form-group mb-4 w-75">
                     <label for="motivoContato">Motivo do Contato</label>
                     <select class="form-control" id="motivoContato" asp-for="Motivo" required>
-                        <option value="" disabled selected>Selecione uma opção</option>
-                        <option value="divulgacao_evento">Divulgação de Evento</option>
-                        <option value="doacoes_financiamentos">Doações e/ou Financiamentos</option>
-                        <option value="informacoes_gerais">Informações Gerais</option>
+                        <option value="" disabled selected>@Model.Motivo</option>
                     </select>
                 </div>
                 <div class="form-group mb-4 w-75">
@@ -37,8 +36,11 @@
                     <textarea class="form-control" id="mensagem" rows="4" placeholder="Escreva sua mensagem aqui..."
                         asp-for="Descricao" required></textarea>
                 </div>
-                <button type="submit" class="btn btn-secondary">Enviar</button>
-            </form>
-        </div>
+            </fieldset>
+        </form>
+
+        <h4 class="fs-6">Entraremos em contato através do telefone ou e-mail disponibilizados.</h4>
+
+        <button class="btn btn-secondary mt-4" id="btnVoltar">Voltar</button>
     </div>
 </div>

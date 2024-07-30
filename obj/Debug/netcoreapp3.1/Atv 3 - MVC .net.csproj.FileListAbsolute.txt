@@ -25,8 +25,10 @@ C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.TagHelpers.input.cache
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.TagHelpers.output.cache
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorCoreGenerate.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConfirmacaoEnvio.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -38,5 +40,3 @@ C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.pdb
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.genruntimeconfig.cache
 C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.csproj.CopyComplete
-C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
-C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
