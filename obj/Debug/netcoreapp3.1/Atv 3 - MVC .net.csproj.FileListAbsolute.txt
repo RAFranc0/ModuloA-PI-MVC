@@ -1,0 +1,42 @@
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.exe
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.deps.json
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.runtimeconfig.json
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.runtimeconfig.dev.json
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.dll
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.pdb
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.Views.dll
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\bin\Debug\netcoreapp3.1\Atv 3 - MVC .net.Views.pdb
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.csproj.AssemblyReference.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.AssemblyInfoInputs.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.AssemblyInfo.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorAssemblyInfo.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorAssemblyInfo.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\Atv 3 - MVC .net.StaticWebAssets.Manifest.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\Atv 3 - MVC .net.StaticWebAssets.Pack.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Atv 3 - MVC .net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Atv 3 - MVC .net.props
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Atv 3 - MVC .net.props
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Atv 3 - MVC .net.props
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.TagHelpers.input.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.TagHelpers.output.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorCoreGenerate.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorTargetAssemblyInfo.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.RazorTargetAssemblyInfo.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.Views.pdb
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.dll
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.pdb
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.genruntimeconfig.cache
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Atv 3 - MVC .net.csproj.CopyComplete
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo A - Senac\Projeto Integrador\Atv 3 - MVC .net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
